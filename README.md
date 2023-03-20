@@ -7,4 +7,4 @@ The directory contains:
   - Model1a for real eigenvalues
   - Model2a for both real and complex eigenvalues
 
-For questions, please refer to trungdung.tran@kuleuven.be
+For questions, please refer to trungdung.tran@kuleuven.be or trungdung.tran@maastrichtuniversity.nl
